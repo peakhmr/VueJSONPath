@@ -1,0 +1,9 @@
+{
+  "name": "VueJSONPath",
+  "version": "0.8.0",
+  "description": "JSONPath is a lightweight component that allows to find and extract relevant portions out of JSON structures on the client as well as on the server.",
+  "main": "index.js",
+  "repository": "https://github.com/peakhmr/VueJSONPath.git",
+  "author": "Socheat <socheatsok78@gmail.com>",
+  "license": "MIT"
+}
